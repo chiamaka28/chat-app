@@ -47,6 +47,7 @@ main:after {
     border-radius: 30px;
     position: relative;
     font-weight: 400;
+    font-size: 10px;
     
 
 }
@@ -152,6 +153,7 @@ background-image: linear-gradient(to left, #8838ff, #e942ff );
  max-width: 70%;
  padding: 8px 8px;
  margin: 10px 0;
+ font-size: 12px;
 }
 .message{
     padding: 9px 50px;
