@@ -41,7 +41,7 @@ main:after {
     border: 8px solid white;
     background:  hsl(270, 20%, 96%);
     margin-top: 50px;
-    height: 500px;
+    height: 520px;
     width: 270px;
     box-shadow:15px 20px 17px 20px rgba(72,85,106,0.07);
     border-radius: 30px;
@@ -153,13 +153,15 @@ background-image: linear-gradient(to left, #8838ff, #e942ff );
  max-width: 70%;
  padding: 8px 8px;
  margin: 10px 0;
+ margin-left: 7px;
  font-size: 12px;
 }
 .message{
-    padding: 9px 50px;
+    padding: 9px 40px;
     margin-left: 8px;
     border-radius: 50px;
     border: none;
+    margin-top: 10px;
 }
 .send{
     padding: 7px;
@@ -173,9 +175,7 @@ background-image: linear-gradient(to left, #8838ff, #e942ff );
 .send img{
     width: 60%;
 }
-radio{
-   
-}
+
 .rad{
     position: relative;
 }
